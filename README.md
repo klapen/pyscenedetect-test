@@ -3,8 +3,8 @@
 Test to learn how to use [PySceneDetect](https://github.com/Breakthrough/PySceneDetect).
 
 ## Dependencies
-# [Numpy](http://www.numpy.org)
-# [OpenCV](https://opencv.org)
+### [Numpy](http://www.numpy.org)
+### [OpenCV](https://opencv.org)
 
 ## Preparation
 
