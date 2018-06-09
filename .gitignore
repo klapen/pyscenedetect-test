@@ -1,0 +1,18 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+.~lock*
+.DS_Store
+~$*
+*.zip
+*.tar.gz
+*.tar.bz
+
+vtest
