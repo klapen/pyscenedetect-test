@@ -1,7 +1,7 @@
 import scenedetect
 
 scene_list = []        # Scenes will be added to this list in detect_scenes().
-path = 'goldeneye.mp4'  # Path to video file.
+path = 'my_video.mp4'  # Path to video file.
 
 # Usually use one detector, but multiple can be used.
 detector_list = [
