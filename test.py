@@ -8,7 +8,7 @@ detector_list = [
     scenedetect.detectors.ThresholdDetector(threshold = 16, min_percent = 0.9)
 ]
 
-video_fps, frames_read = scenedetect.detect_scenes_file(path, scene_list, detector_list)
+video_fps, frames_read = scenedetect.detect_scenes_file(path, scene_list, detector_list, save_images = True)
 print 'Scene_list now contains the frame numbers of scene boundaries.'
 print scene_list
 
