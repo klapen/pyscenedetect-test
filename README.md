@@ -30,6 +30,7 @@ For MacOS creating a virtual enviroment to use this repo create an error. For th
 
 ### Linux
 On Linux, it is straight forward to use it on virtual enviroments. To run the test:
+
     ```
         $ git clone https://github.com/klapen/pyscenedetect-test.git
 	$ cd pyscenedetect-test
